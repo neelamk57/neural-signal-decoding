@@ -1,1 +1,1 @@
-# neural-signal-decoding
+This system perform left hand/right hand classification with the help of EEG signals. Leveraging three standalone CNN models, a standalone Transformer model and a Hybrid architecture of both CNN and Transformer, the performances are compared. The dataset can be accessed from : https://physionet.org/content/eegmmidb/1.0.0/
